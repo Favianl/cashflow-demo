@@ -1,8 +1,6 @@
-# React + Vite
+# CASHFLOW - DEMO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sistema de Gestión de Finanzas Personales
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[CashFlow - Demo](https://favianl.github.io/cashflow-demo/#/home)
+[Source](https://github.com/Favianl/C14-23-m-java-react)
