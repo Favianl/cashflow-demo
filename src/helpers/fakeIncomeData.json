@@ -1,0 +1,82 @@
+[
+  {
+    "categoryName": "SUELDO_MENSUAL",
+    "description": "",
+    "amount": 2000,
+    "idIncome": 1718472094090,
+    "idUser": 1,
+    "date": ["2024", "01", "15"]
+  },
+  {
+    "categoryName": "PRESTAMO",
+    "description": "test",
+    "amount": 300,
+    "idIncome": 1718472294906,
+    "idUser": 1,
+    "date": ["2024", "01", "15"]
+  },
+  {
+    "categoryName": "CLIENTES",
+    "description": "test 2",
+    "amount": 200,
+    "idIncome": 1718472403495,
+    "idUser": 1,
+    "date": ["2024", "02", "15"]
+  },
+  {
+    "categoryName": "BONO_EXTRA",
+    "description": "test bono",
+    "amount": 100,
+    "idIncome": 1718472497314,
+    "idUser": 1,
+    "date": ["2024", "03", "15"]
+  },
+  {
+    "categoryName": "OTROS",
+    "description": "",
+    "amount": 50,
+    "idIncome": 1718472524350,
+    "idUser": 1,
+    "date": ["2024", "03", "15"]
+  },
+  {
+    "categoryName": "CLIENTES",
+    "description": "",
+    "amount": 300,
+    "idIncome": 1718473779009,
+    "idUser": 1,
+    "date": ["2024", "04", "15"]
+  },
+  {
+    "categoryName": "OTROS",
+    "description": "",
+    "amount": 100,
+    "idIncome": 1718473786209,
+    "idUser": 1,
+    "date": ["2024", "05", "15"]
+  },
+  {
+    "categoryName": "PRESTAMO",
+    "description": "",
+    "amount": 450,
+    "idIncome": 1718473794434,
+    "idUser": 1,
+    "date": ["2024", "05", "15"]
+  },
+  {
+    "categoryName": "SUELDO_MENSUAL",
+    "description": "",
+    "amount": 1300,
+    "idIncome": 1718473802266,
+    "idUser": 1,
+    "date": ["2024", "06", "15"]
+  },
+  {
+    "categoryName": "BONO_EXTRA",
+    "description": "",
+    "amount": 300,
+    "idIncome": 1718473826332,
+    "idUser": 1,
+    "date": ["2024", "06", "15"]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "categoryName": "SALUD_CUIDADO_PERSONAL",
+    "description": "",
+    "amount": 200,
+    "idEgress": 1718472104152,
+    "idUser": 1,
+    "date": ["2024", "01", "15"]
+  },
+  {
+    "categoryName": "ALIMENTACION",
+    "description": "",
+    "amount": 20,
+    "idEgress": 1718472238312,
+    "idUser": 1,
+    "date": ["2024", "01", "15"]
+  },
+  {
+    "categoryName": "VIVIENDA",
+    "description": "",
+    "amount": 39,
+    "idEgress": 1718472256880,
+    "idUser": 1,
+    "date": ["2024", "01", "15"]
+  },
+  {
+    "categoryName": "TRANSPORTE",
+    "description": "",
+    "amount": 230,
+    "idEgress": 1718472267131,
+    "idUser": 1,
+    "date": ["2024", "02", "15"]
+  },
+  {
+    "categoryName": "EDUCACION",
+    "description": "",
+    "amount": 300,
+    "idEgress": 1718472324691,
+    "idUser": 1,
+    "date": ["2024", "02", "15"]
+  },
+  {
+    "categoryName": "VESTIMENTA",
+    "description": "",
+    "amount": 100,
+    "idEgress": 1718472338891,
+    "idUser": 1,
+    "date": ["2024", "02", "15"]
+  },
+  {
+    "categoryName": "SERVICIOS",
+    "description": "",
+    "amount": 70,
+    "idEgress": 1718472357676,
+    "idUser": 1,
+    "date": ["2024", "02", "15"]
+  },
+  {
+    "categoryName": "VIAJE_VACACIONES",
+    "description": "test",
+    "amount": 120,
+    "idEgress": 1718472372629,
+    "idUser": 1,
+    "date": ["2024", "02", "15"]
+  },
+  {
+    "categoryName": "AHORRO_INVERSION",
+    "description": "",
+    "amount": 40,
+    "idEgress": 1718472446337,
+    "idUser": 1,
+    "date": ["2024", "03", "15"]
+  },
+  {
+    "categoryName": "OTROS",
+    "description": "",
+    "amount": 299,
+    "idEgress": 1718472458072,
+    "idUser": 1,
+    "date": ["2024", "03", "15"]
+  },
+  {
+    "categoryName": "ALIMENTACION",
+    "description": "",
+    "amount": 200,
+    "idEgress": 1718472568246,
+    "idUser": 1,
+    "date": ["2024", "03", "15"]
+  },
+  {
+    "categoryName": "VIVIENDA",
+    "description": "",
+    "amount": 300,
+    "idEgress": 1718472586472,
+    "idUser": 1,
+    "date": ["2024", "04", "15"]
+  },
+  {
+    "categoryName": "SERVICIOS",
+    "description": "",
+    "amount": 200,
+    "idEgress": 1718472611792,
+    "idUser": 1,
+    "date": ["2024", "04", "15"]
+  },
+  {
+    "categoryName": "AHORRO_INVERSION",
+    "description": "",
+    "amount": 32,
+    "idEgress": 1718472629755,
+    "idUser": 1,
+    "date": ["2024", "04", "15"]
+  },
+  {
+    "categoryName": "EDUCACION",
+    "description": "",
+    "amount": 250,
+    "idEgress": 1718473858294,
+    "idUser": 1,
+    "date": ["2024", "04", "15"]
+  },
+  {
+    "categoryName": "ENTRETENIMIENTO",
+    "description": "",
+    "amount": 200,
+    "idEgress": 1718473867037,
+    "idUser": 1,
+    "date": ["2024", "04", "15"]
+  },
+  {
+    "categoryName": "SALUD_CUIDADO_PERSONAL",
+    "description": "test salud",
+    "amount": 70,
+    "idEgress": 1718473880510,
+    "idUser": 1,
+    "date": ["2024", "04", "15"]
+  },
+  {
+    "categoryName": "AHORRO_INVERSION",
+    "description": "",
+    "amount": 50,
+    "idEgress": 1718473895759,
+    "idUser": 1,
+    "date": ["2024", "04", "15"]
+  },
+  {
+    "categoryName": "VESTIMENTA",
+    "description": "",
+    "amount": 100,
+    "idEgress": 1718473909271,
+    "idUser": 1,
+    "date": ["2024", "04", "15"]
+  },
+  {
+    "categoryName": "TRANSPORTE",
+    "description": "",
+    "amount": 300,
+    "idEgress": 1718473917288,
+    "idUser": 1,
+    "date": ["2024", "05", "15"]
+  },
+  {
+    "categoryName": "VIVIENDA",
+    "description": "",
+    "amount": 470,
+    "idEgress": 1718473931490,
+    "idUser": 1,
+    "date": ["2024", "05", "15"]
+  },
+  {
+    "categoryName": "ALIMENTACION",
+    "description": "",
+    "amount": 200,
+    "idEgress": 1718473945713,
+    "idUser": 1,
+    "date": ["2024", "06", "15"]
+  },
+  {
+    "categoryName": "VIAJE_VACACIONES",
+    "description": "",
+    "amount": 160,
+    "idEgress": 1718473964346,
+    "idUser": 1,
+    "date": ["2024", "06", "15"]
+  },
+  {
+    "categoryName": "OTROS",
+    "description": "",
+    "amount": 350,
+    "idEgress": 1718473984491,
+    "idUser": 1,
+    "date": ["2024", "06", "15"]
+  }
+]
